@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Suika.Services.ProductAPI
-build_property.ProjectDir = C:\Users\tyanr\Source\Repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant\Suika.Services.ProductAPI\
+build_property.ProjectDir = C:\Users\tyanr\source\repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant\Suika.Services.ProductAPI\
