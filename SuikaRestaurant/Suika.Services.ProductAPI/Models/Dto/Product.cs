@@ -21,6 +21,9 @@ namespace Suika.Services.ProductAPI.Models
         [DisplayName("価格")]
         public double Price { get; set; }
 
+        [DisplayName("製品詳細")]
+        public string Description { get; set; }
+
         [DisplayName("カテゴリー名")]
         public string CategoryName { get; set; }
 
