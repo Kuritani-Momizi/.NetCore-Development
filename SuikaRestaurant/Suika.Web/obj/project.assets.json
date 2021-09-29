@@ -6726,11 +6726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tyanr\\OneDrive\\デスクトップ\\.NET CORE\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\Suika.Web.csproj",
+      "projectUniqueName": "C:\\Users\\tyanr\\Source\\Repos\\Kuritani-Momizi\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\Suika.Web.csproj",
       "projectName": "Suika.Web",
-      "projectPath": "C:\\Users\\tyanr\\OneDrive\\デスクトップ\\.NET CORE\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\Suika.Web.csproj",
+      "projectPath": "C:\\Users\\tyanr\\Source\\Repos\\Kuritani-Momizi\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\Suika.Web.csproj",
       "packagesPath": "C:\\Users\\tyanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tyanr\\OneDrive\\デスクトップ\\.NET CORE\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\obj\\",
+      "outputPath": "C:\\Users\\tyanr\\Source\\Repos\\Kuritani-Momizi\\.NetCore-Development\\SuikaRestaurant\\Suika.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
