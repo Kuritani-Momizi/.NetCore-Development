@@ -43,6 +43,7 @@ namespace Suika.Services.ProductAPI.Repository
                     }
 
                     await _db.SaveChangesAsync();
+                    tr.Commit();
                 }
                 catch (Exception ex)
                 {
@@ -70,6 +71,7 @@ namespace Suika.Services.ProductAPI.Repository
                         await _db.SaveChangesAsync();
                     }
 
+                    tr.Commit();
                     return true;
                 }
                 catch (Exception ex)

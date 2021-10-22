@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Suika.Services.ProductAPI.Models.Dto;
 using Suika.Services.ProductAPI.Models.Dtos;
 using Suika.Services.ProductAPI.Repository;
@@ -24,6 +25,8 @@ namespace Suika.Services.ProductAPI.Controllers
         #endregion
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
+
         public async Task<object> Get()
         {
             try
@@ -41,6 +44,7 @@ namespace Suika.Services.ProductAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         [Route("{id}")]
         public async Task<object> Get(int id)
         {
@@ -59,6 +63,7 @@ namespace Suika.Services.ProductAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<object> Post([FromBody] ProductDto productDto)
         {
             try
@@ -76,6 +81,7 @@ namespace Suika.Services.ProductAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<object> Put([FromBody] ProductDto productDto)
         {
             try
@@ -92,7 +98,10 @@ namespace Suika.Services.ProductAPI.Controllers
             return _response;
         }
 
+        //特定の権限を持つユーザーのみ使用可能！って設定できる
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
+        [Route("{id}")]
         public async Task<object> Delete(int id)
         {
             try
@@ -108,6 +117,5 @@ namespace Suika.Services.ProductAPI.Controllers
 
             return _response;
         }
-
     }
 }

@@ -786,3 +786,11 @@ C:\Users\tyanr\Source\Repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant
 C:\Users\tyanr\Source\Repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\ref\Suika.Web.dll
 C:\Users\tyanr\Source\Repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Suika.Web.pdb
 C:\Users\tyanr\Source\Repos\Kuritani-Momizi\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Suika.Web.genruntimeconfig.cache
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Razor\Views\Product\ProductIndex.cshtml.g.cs
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Razor\Views\Product\ProductCreate.cshtml.g.cs
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Razor\Views\Product\ProductEdit.cshtml.g.cs
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\obj\Debug\net5.0\Razor\Views\Product\ProductDelete.cshtml.g.cs
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tyanr\OneDrive\デスクトップ\.NET CORE\.NetCore-Development\SuikaRestaurant\Suika.Web\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
